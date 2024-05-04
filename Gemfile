@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'wdm', '>=0.1.0'  #accoridng to spencer gao video,https://www.youtube.com/watch?v=g6AJ9qPPoyc  05:12
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
